@@ -9,7 +9,7 @@ courses: {'csp': {'week': 9}}
 type: hacks
 ---
 
-# Made by: Ryan, Daniel, Saaras, Will, and Andrew
+## Made by: Ryan, Daniel, Saaras, Will, and Andrew
 
 ## Python lists Operations
 
